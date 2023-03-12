@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\indra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\indra\\.nuget\\packages"
+    ]
+  }
+}
